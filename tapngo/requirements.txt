@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+pymysql
+requests
+pandas
+pip
